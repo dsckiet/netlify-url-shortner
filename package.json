@@ -2,6 +2,7 @@
   "name": "netlify-url-shortner",
   "version": "1.0.0",
   "description": "",
+  "baseUrl": "https://go.dsckiet.com",
   "main": "index.js",
   "scripts": {
     "shorten": "netlify-shortener"
