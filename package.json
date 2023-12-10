@@ -20,5 +20,10 @@
   "homepage": "https://github.com/dsckiet/netlify-url-shortner#readme",
   "devDependencies": {
     "netlify-shortener": "^2.2.1"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "or": "^0.2.0",
+    "yarn": "^1.22.21"
   }
 }
